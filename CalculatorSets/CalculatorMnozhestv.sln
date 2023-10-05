@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CalculatorMnozhestv", "CalculatorMnozhestv\CalculatorMnozhestv.vcxproj", "{83903254-649B-4071-9BA8-F4C8D02A4306}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83903254-649B-4071-9BA8-F4C8D02A4306}.Debug|x64.ActiveCfg = Debug|x64
+		{83903254-649B-4071-9BA8-F4C8D02A4306}.Debug|x64.Build.0 = Debug|x64
+		{83903254-649B-4071-9BA8-F4C8D02A4306}.Debug|x86.ActiveCfg = Debug|Win32
+		{83903254-649B-4071-9BA8-F4C8D02A4306}.Debug|x86.Build.0 = Debug|Win32
+		{83903254-649B-4071-9BA8-F4C8D02A4306}.Release|x64.ActiveCfg = Release|x64
+		{83903254-649B-4071-9BA8-F4C8D02A4306}.Release|x64.Build.0 = Release|x64
+		{83903254-649B-4071-9BA8-F4C8D02A4306}.Release|x86.ActiveCfg = Release|Win32
+		{83903254-649B-4071-9BA8-F4C8D02A4306}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2FCC02A-8274-4629-A6B3-DE3C2EF6601A}
+	EndGlobalSection
+EndGlobal

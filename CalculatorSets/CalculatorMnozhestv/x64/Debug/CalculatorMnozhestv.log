@@ -1,0 +1,4 @@
+﻿  CalculatorMnozhestv.cpp
+C:\Users\Одмен\Desktop\калькулятор множеств\CalculatorSets\CalculatorMnozhestv\CalculatorMnozhestv.cpp(377,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Одмен\Desktop\калькулятор множеств\CalculatorSets\CalculatorMnozhestv\CalculatorMnozhestv.cpp(506,40): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  CalculatorMnozhestv.vcxproj -> C:\Users\Одмен\Desktop\калькулятор множеств\CalculatorSets\x64\Debug\CalculatorMnozhestv.exe
